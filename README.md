@@ -7,8 +7,13 @@ cow dog다
       button {
         background-color: red;
       }
+      div {
+        background-color: pink;
+      }
       details {
         background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+        display: flex;
+        justify-content: center;
       }
       summary {
         list-style: none;
