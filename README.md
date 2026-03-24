@@ -11,6 +11,9 @@ cow dog다
       button {
         background-color: red;
         }
+      div {
+        background-color: balck;
+        }
     </style>
   </head>
   <body>
