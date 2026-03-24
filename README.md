@@ -12,7 +12,7 @@ cow dog다
         background-color: red;
         }
       div {
-        background-color: balck;
+        background-color: black;
         }
     </style>
   </head>
