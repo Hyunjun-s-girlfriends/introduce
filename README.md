@@ -6,7 +6,14 @@ cow dog다
 <img src="https://i.pinimg.com/736x/01/99/3d/01993da7a4282c84c78413dc4fc29ba6.jpg" alt="" width=30%>
 <img src="https://i.pinimg.com/736x/34/4a/d8/344ad827517ff27f975d117ab0c49166.jpg" alt="" width=30%>
 <html>
+  <head>
+    <style>
+      button {
+        background-color: red;
+        }
+    </style>
+  </head>
   <body>
-    <button onclick="alert('hi')" style='background-color: red;'>click</button>
+    <button onclick="alert('hi')">click</button>
   </body>
 </html>
