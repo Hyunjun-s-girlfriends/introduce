@@ -13,7 +13,7 @@ cow dog다
     display: inline-block;
   }
   div.sc-fHjqbK.fYENXg {
-    background-color: pink;
+    background-color: rgba(243, 193, 205, 0.5);
   }
 </style>
 <details>
