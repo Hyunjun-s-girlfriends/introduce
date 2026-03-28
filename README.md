@@ -15,6 +15,10 @@ cow dog다
   div.sc-fHjqbK.fYENXg {
     background-color: rgba(243, 193, 205, 0.5);
   }
+  div.project-member-position {
+    width: 71%;
+    letter-spacing: 1px;
+  }
 </style>
 <details>
   <summary></summary>
